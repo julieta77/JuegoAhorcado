@@ -130,7 +130,7 @@ class juego:
                 self.word = self.word.upper()
 
 
-juegoHorcado = juego()
+juegoAhorcado = juego()
 
-juegoHorcado.juegar()
+juegoAhorcado.juegar()
                 
